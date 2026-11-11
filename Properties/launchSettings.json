@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RefOut": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
